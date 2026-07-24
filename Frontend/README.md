@@ -6,7 +6,6 @@ A modern MERN-based social media platform where users can create accounts, uploa
 
 ## 🚀 Features
 
-- User Authentication
 - Create New Posts
 - Upload Images
 - View All Posts
@@ -43,19 +42,19 @@ A modern MERN-based social media platform where users can create accounts, uploa
 
 ### Home Page
 
-![Home](frontend/screenshots/Home.png)
+![Home](Frontend/screenshots/Home.png)
 
 ---
 
 ### Create Post
 
-![Create Post](frontend/screenshots/create.png)
+![Create Post](Frontend/screenshots/create.png)
 
 ---
 
 ### Posts Feed
 
-![Posts](frontend/screenshots/posts.png)
+![Posts](Frontend/screenshots/posts.png)
 
 ---
 
@@ -64,14 +63,14 @@ A modern MERN-based social media platform where users can create accounts, uploa
 ```
 SnapVerse
 │
-├── frontend
+├── Frontend
 │   ├── screenshots
 │   │   ├── Home.png
 │   │   ├── create.png
 │   │   └── posts.png
 │   └── ...
 │
-├── backend
+├── Backend
 │   └── ...
 │
 ├── .env.example
@@ -104,7 +103,7 @@ PORT=8080
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/SnapVerse.git
+git clone https://github.com/Ayesha-Saddique9/Ecommerce-SnapVerse
 ```
 
 ### 2. Navigate to the project folder
@@ -116,7 +115,7 @@ cd SnapVerse
 ### 3. Install frontend dependencies
 
 ```bash
-cd frontend
+cd Frontend
 ```
 
 ```bash
@@ -126,7 +125,7 @@ npm install
 ### 4. Install backend dependencies
 
 ```bash
-cd ../backend
+cd ../Backend
 ```
 
 ```bash
@@ -140,7 +139,7 @@ npm install
 ### Start Backend
 
 ```bash
-cd backend
+cd Backend
 ```
 
 ```bash
@@ -154,7 +153,7 @@ npm run dev
 Open another terminal.
 
 ```bash
-cd frontend
+cd Frontend
 ```
 
 ```bash
@@ -164,11 +163,6 @@ npm run dev
 ---
 
 ## 📦 API
-
-### Authentication
-
-- Register User
-- Login User
 
 ### Posts
 
@@ -211,7 +205,11 @@ git push origin feature-name
 
 Software Engineer
 
-GitHub: https://github.com/your-username
+🔗 GitHub: https://github.com/Ayesha-Saddique9
+
+💼 LinkedIn: https://linkedin.com/in/ayesha-saddique9
+
+📧 Email: ayeshasaddique70@gmail.com
 
 ---
 
