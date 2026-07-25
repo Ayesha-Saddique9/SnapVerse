@@ -1,6 +1,6 @@
 # 📸 SnapVerse
 
-A modern MERN-based social media platform where users can create accounts, upload image posts, and share their moments with others through a clean and responsive interface.
+A modern MERN-based social media platform where users can upload image posts, and share their moments with others through a clean and responsive interface.
 
 ---
 
