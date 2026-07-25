@@ -88,7 +88,6 @@ Create a `.env` file inside the backend folder.
 MONGODB_URI=your_mongodb_connection_string
 
 IMAGEKIT_PRIVATE_KEY=your_private_key
-
 ```
 
 ---
